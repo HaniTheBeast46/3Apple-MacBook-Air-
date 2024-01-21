@@ -1,4 +1,6 @@
-# macbook 2008
+# macbook 2008 vs macbook air 2022
+
+## the specs
 
 | specs        | MacBook Air 2008           | MacBook air 2022  |
 | ------------- |:-------------:| -----:|
